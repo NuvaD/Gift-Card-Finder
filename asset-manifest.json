@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gift-Card-Finder/static/css/main.2041091a.css",
+    "main.js": "/Gift-Card-Finder/static/js/main.1a20b1c1.js",
+    "static/js/787.f5587e0a.chunk.js": "/Gift-Card-Finder/static/js/787.f5587e0a.chunk.js",
+    "index.html": "/Gift-Card-Finder/index.html",
+    "main.2041091a.css.map": "/Gift-Card-Finder/static/css/main.2041091a.css.map",
+    "main.1a20b1c1.js.map": "/Gift-Card-Finder/static/js/main.1a20b1c1.js.map",
+    "787.f5587e0a.chunk.js.map": "/Gift-Card-Finder/static/js/787.f5587e0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2041091a.css",
+    "static/js/main.1a20b1c1.js"
+  ]
+}
